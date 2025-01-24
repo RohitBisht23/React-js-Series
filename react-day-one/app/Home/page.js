@@ -4,7 +4,7 @@ import Header from "@/Components/Header";
 function Home() {
   return (
     <div>
-      <h1>Home</h1>
+      <h1 className='font-bold h-[50] center'>Your Todo List</h1>
     </div>
   );
 }
